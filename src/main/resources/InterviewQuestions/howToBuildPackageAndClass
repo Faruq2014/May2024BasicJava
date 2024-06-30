@@ -1,0 +1,11 @@
+
+how to build Package?
+ right click on --->src/main/java--new-->package
+ right package name camal casing
+ make sure to write first word small for package name
+ 
+ how to build a class?
+ 
+ right click on package name-->new -- class-->
+ click on public static void main
+ 
